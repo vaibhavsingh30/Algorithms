@@ -1,0 +1,4 @@
+we could keep decreasing 2 number by 2    [n--;n--;] for that n upto which n>0;
+now if n==0; then number will be divisible;
+   if n==-1; then number will not be divisible;
+
